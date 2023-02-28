@@ -1,5 +1,5 @@
 init-build.sh
-easy-settings.cmake
+/easy-settings.cmake
 tags
 .sel4_cache/
 kernel/
