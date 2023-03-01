@@ -96,7 +96,7 @@ ln -s tools/cmake-tool/init-build.sh init-build.sh
 All files required for the project are put into the `hello` directory. First of
 all lets create a simple source file that just prints the "Hello World"
 message. File is located in the
-[projects/hello/src/](https://github.com/mskordal/SeL4-hello-world/blob/main)
+[projects/hello/src/](https://github.com/mskordal/SeL4-hello-world/blob/main/projects/hello/src/)
 path.
 
 Projects in SeL4 are built using the CMake tool. This requires a CMakeLists.txt
